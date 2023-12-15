@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "name" : "tesla",
+        "brand" : "space-x",
+        "model" : "x-10"
+    },
+    {
+        "id":2,
+        "name" : "kia",
+        "brand" : "sportage",
+        "model" : "a123"
+    }
+]
